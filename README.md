@@ -11,14 +11,14 @@ Peter Pandey, a data analyst in the team, has been assigned this critical projec
 The data is available on the Codebasics website [Data Source](https://prod4.codebasics.io/challenge/codebasics-resume-project-challenge), which consolidates various datasets for analysis. 
 Additionally, the raw data can be explored on the Vahan Sewa platform Vahan Sewa Data, which provides public access to vehicle registration information.
 
-## **Dataset Structure**
+# **Dataset Structure**
 dim_date.csv: Contains date-related information, including fiscal year and quarter details.
 electric_vehicle_sales_by_makers.csv: Provides sales data by vehicle category and manufacturer.
 electric_vehicle_sales_by_state.csv: Includes sales data categorized by state and vehicle type.
 
-## **Tools:**
+# **Tools:**
 Python and Libraries - Used to perform in-depth analysis and visualization of the data.
 
-## **Conclusion:**
+# **Conclusion:**
 The analysis shows that the EV market is poised for sustained growth, driven by environmental concerns, technological advancements, and favorable government policies. 
 The insights from this project provide a solid foundation for understanding the market dynamics and preparing for future opportunities in the electric vehicle industry.
