@@ -1,4 +1,4 @@
-# **AtliQ Motors: Electric Vehicle Market Study in India**
+# **AtliQ Motors: Electric Vehicle Sales in India**
 
 ## **Problem Statement**
 AtliQ Motors is a leading automotive company in the USA, known for its expertise in electric vehicles (EVs). Over the past five years, AtliQ Motors has captured a significant 25% share of the electric and hybrid vehicle market in North America.
