@@ -13,7 +13,9 @@ Additionally, the raw data can be explored on the Vahan Sewa platform Vahan Sewa
 
 ## **Dataset Structure**
 dim_date.csv: Contains date-related information, including fiscal year and quarter details.
+
 electric_vehicle_sales_by_makers.csv: Provides sales data by vehicle category and manufacturer.
+
 electric_vehicle_sales_by_state.csv: Includes sales data categorized by state and vehicle type.
 
 ## **Tools:**
